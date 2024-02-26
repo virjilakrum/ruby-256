@@ -22,13 +22,14 @@ Uygulamayı İndirin/Klonlayın: Proje kodunu indirin veya GitHub deposunu klonl
 
 Uygulamayı Çalıştırın: Terminal/komut isteminde proje dizinine geçin ve şunu çalıştırın:
 
-  ```ruby main.rb
+  ```
+ruby main.rb
+```
 
-Özellikler
-
-    Kullanıcı Kayıt Sistemi: Uygulama, kullanıcıların bir kullanıcı adı ve şifre oluşturmasına olanak tanır. Şifreler güvenlik için karma hale getirilir ve bir dosyada saklanır.
-    Giriş Sistemi: Kayıtlı kullanıcılar, kullanıcı adlarını ve şifrelerini kullanarak giriş yapabilirler.
-    Ana Menü : Kullanıcılar, aşağıdakileri de içeren bir ana menü aracılığıyla çeşitli projeleri keşfedebilirler:
+## Özellikler
+Kullanıcı Kayıt Sistemi: Uygulama, kullanıcıların bir kullanıcı adı ve şifre oluşturmasına olanak tanır. Şifreler güvenlik için karma hale getirilir ve bir dosyada saklanır.
+        Giriş Sistemi: Kayıtlı kullanıcılar, kullanıcı adlarını ve şifrelerini kullanarak giriş yapabilirler.
+        Ana Menü : Kullanıcılar, aşağıdakileri de içeren bir ana menü aracılığıyla çeşitli projeleri keşfedebilirler:
         Makaleler: Zero-Knowledge teknolojileri ile ilgili makalelerin bir listesi (harici sitelere bağlantılar sağlar).
         Github Repoları: Zero-Knowledge tabanlı projelerin olduğu GitHub depolarının bir listesi (harici sitelere bağlantılar sağlar).
         Atlaspad Çalışmaları: Atlaspad tarafından başlatılan Zero-Knowledge projelerinin bir açıklaması.
